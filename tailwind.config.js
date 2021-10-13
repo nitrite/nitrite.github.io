@@ -10,9 +10,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "nitrite-purple": "#5267DF",
-        "nitrite-red": "#FA5959",
-        "nitrite-blue": "#242A45",
+        "nitrite-purple": "#6b63ff",
+        "nitrite-red": "#f44336",
+        "nitrite-dark": "#1a202c",
         "nitrite-grey": "#9194A2",
         "nitrite-white": "#f7f7f7",
       }

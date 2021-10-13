@@ -18,7 +18,7 @@
         justify-end
         items-center
         gap-12
-        text-nitrite-blue
+        text-nitrite-dark
         uppercase
         text-xs
         font-semibold

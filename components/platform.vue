@@ -15,7 +15,7 @@
             <div class="flex flex-col rounded-md shadow-md">
                 <div class="p-6 flex flex-col items-center">
                     <img src="~/assets/images/java.png" class="object-scale-down h-32" alt="">
-                    <h3 class="mt-5 mb-2 text-nitrite-blue text-lg">Java</h3>
+                    <h3 class="mt-5 mb-2 text-nitrite-dark text-lg">Java</h3>
                     <p class="mb-2 text-nitrite-grey font-light">Java 8+ and Android</p>
                 </div>
                 <hr class="border-b border-nitrite-white">
@@ -30,7 +30,7 @@
             <div class="flex flex-col rounded-md shadow-md">
                 <div class="p-6 flex flex-col items-center">
                     <img src="~/assets/images/kotlin.png" class="object-scale-down h-32" alt="">
-                    <h3 class="mt-5 mb-2 text-nitrite-blue text-lg">Kotlin</h3>
+                    <h3 class="mt-5 mb-2 text-nitrite-dark text-lg">Kotlin</h3>
                     <p class="mb-2 text-nitrite-grey font-light">JVM and Android</p>
                 </div>
                 <hr class="border-b border-nitrite-white">
@@ -45,7 +45,7 @@
             <div class="flex flex-col rounded-md shadow-md">
                 <div class="p-6 flex flex-col items-center">
                     <img src="~/assets/images/flutter.png" class="object-scale-down h-32" alt="">
-                    <h3 class="mt-5 mb-2 text-nitrite-blue text-lg">Flutter</h3>
+                    <h3 class="mt-5 mb-2 text-nitrite-dark text-lg">Flutter</h3>
                     <p class="mb-2 text-nitrite-grey font-light">Flutter 2.x+</p>
                 </div>
                 <hr class="border-b border-nitrite-white">

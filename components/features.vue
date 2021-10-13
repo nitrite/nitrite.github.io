@@ -2,7 +2,7 @@
     <section id="features" class="bg-nitrite-white py-20 mt-20 lg:mt-60">
         <!-- Heading -->
         <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
-            <h1 class="text-3xl lg:text-5xl text-center font-semibold text-nitrite-blue">Key Features</h1>
+            <h1 class="text-3xl lg:text-5xl text-center font-semibold text-nitrite-dark">Key Features</h1>
             <p class="text-center text-lg text-nitrite-grey mt-4">
                 
             </p>

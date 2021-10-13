@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-nitrite-blue py-8">
+    <footer class="bg-nitrite-dark py-8">
         <div class="container flex flex-col md:flex-row items-center md:px-12">
             <div class="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
                 <img src="~/assets/images/logo-nitrite-white.svg" alt="">

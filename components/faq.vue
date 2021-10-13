@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Heading -->
             <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
-                <h1 class="text-3xl text-center text-nitrite-blue">Frequently Asked Questions</h1>
+                <h1 class="text-3xl text-center text-nitrite-dark">Frequently Asked Questions</h1>
                 <p class="text-center text-nitrite-grey mt-4">
                     
                 </p>
